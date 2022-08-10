@@ -1,0 +1,11 @@
+site_name: Einstein Chair Seminar - Four Decades
+theme:  
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+plugins:
+  - search
+nav:
+  - Home: index.md
