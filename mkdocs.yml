@@ -1,11 +1,47 @@
 site_name: Einstein Chair Seminar - Four Decades
+
 theme:  
   name: material
-  features:
+
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  favicon: assets/cuny.png
+
+  logo: assets/cuny.png
+
+  features: 
     - search.suggest
     - search.highlight
     - content.tabs.link
+
 plugins:
   - search
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra:
+  generator: false
+
 nav:
   - Home: index.md
+  - Poster: poster.md
+  - Schedule: schedule.md
+  - Abstracts: abstracts.md
+  - Local: local.md
+
+

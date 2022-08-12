@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+**Four Decades of the Einstein Chair Seminar**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+The conference will be held on Jan 17-19, 2023 at CUNY Graduate Center.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+**Organizers**  
+[Ara Basmajian](https://www.gc.cuny.edu/people/ara-basmajian?gclid=CjwKCAjw9NeXBhAMEiwAbaY4lvY7UrxXssVMlRWNLEXcJsVyx2_nVcQhqPcp6QpapyLtNWk3V391UBoCSscQAvD_BwE)  
+[Scott Wilson](https://qcpages.qc.cuny.edu/~swilson/)  
+[Mahmoud Zeinalian](https://www.zeinalian.com/)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+Currently, the webpage is being built.
