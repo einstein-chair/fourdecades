@@ -22,6 +22,8 @@ The long term goal of this project is to develop a metric theory of the augmente
 
 ### Ralph L. Cohen
 
+[Lecture Video](https://youtu.be/-QC3lq-8tV8){target="_blank"}
+
 **Title:** Floer homotopy theory, old and new
 
 **Abstract:** In 1995 the speaker, Jones, and Segal introduced the notion of “Floer
@@ -41,6 +43,8 @@ and others.
 ---
 
 ### Gregory Falkovich
+
+[Lecture Video](https://youtu.be/185yQp0E2Ys){target="_blank"}
 
 **Title:** Mathematical Aspects of Turbulence
 
@@ -108,7 +112,7 @@ This talk is based on joint work with Dongryul Kim.
 
 ### Manuel Rivera
 
-[Lecture Video](https://youtu.be/Hg5IxpepAyM){target="_blank"}     
+[Lecture Video](https://youtu.be/Hg5IxpepAyM){target="_blank"}
 
 **Title:** Bialgebras and loop spaces
 
@@ -132,9 +136,11 @@ The second discussion will focus on bialgebra structures inspired by Chas and Su
 
 ### Nathalie Wahl
 
+[Lecture Video](https://youtu.be/yVVPpvQD3lA){target="_blank"}
+
 **Title:** What does string topology know about the manifold it lives on?
 
-**Abstract:** By classical Morse theory, the homology of the free loop space $\mathcal{L}M$ on a Riemannian manifold $M$ is build out of closed geodesics in $M$. It however, as such, only depends on the homotopy type of $M$. String topology, as introduced 20 years ago by Chas and Sullivan, can be thought of as a refinement of the homology $\mathcal{L}M$, that remembers the extra information of how loops can sometimes be concatenated or cut. I'll explain in my talk in what sense the original hope that string topology knows more than the homotopy type of $M$ has finally become a reality, and indicate how it can teach us something about an older invariant, namely Reidemeister torsion.
+**Abstract:** By classical Morse theory, the homology of the free loop space $\mathcal{L}M$ on a Riemannian manifold $M$ is build out of closed geodesics in $M$. It however, as such, only depends on the homotopy type of $M$. String topology, as introduced 20 years ago by Chas and Sullivan, can be thought of as a refinement of the homology of $\mathcal{L}M$, that remembers the extra information of how loops can sometimes be concatenated or cut. I'll explain in my talk in what sense the original hope that string topology knows more than the homotopy type of $M$ has finally become a reality, and indicate how it can teach us something about an older invariant, namely Reidemeister torsion.
 
 ---
 

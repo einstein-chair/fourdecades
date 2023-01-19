@@ -9,6 +9,10 @@ You must have ID and proof of vaccination (WHO approved vaccines are acceptable)
 
 ---
 
+![Conference Photo](./assets/conference_photo.jpg)
+
+---
+
 **Confirmed Speakers**  
 [Richard Canary (University of Michigan)](http://www.math.lsa.umich.edu/~canary/){target="_blank"}  
 [Moira Chas (Stony Brook University)](http://www.math.stonybrook.edu/~moira/){target="_blank"}  
