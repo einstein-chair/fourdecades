@@ -1,6 +1,6 @@
 # Four Decades of the Einstein Chair Seminar
 
-The conference is being held on Jan 17-19, 2023 at CUNY Graduate Center.
+The conference was held on Jan 17-19, 2023 at CUNY Graduate Center.
 
 ---
 

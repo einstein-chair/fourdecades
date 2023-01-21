@@ -1,8 +1,6 @@
 # Schedule of Talks
 
-All the lectures will be held at the Martin E. Segal Theatre which is located on the first floor of the Graduate Center.  
-
-*The lectures will be live-streamed in Room 4102 (The Science Center).
+All the lectures were held at the Martin E. Segal Theatre which is located on the first floor of the Graduate Center.  
 
 **Entering the Graduate Center building:**  
 You must have ID and proof of vaccination (WHO approved vaccines are acceptable). If you are not vaccinated then you need a negative PCR  test taken within seven days of entry.  CUNY members need to have a Cleared 4 pass.
@@ -46,4 +44,4 @@ You must have ID and proof of vaccination (WHO approved vaccines are acceptable)
 | 3:00 - 3:30pm   | Coffee and tea break                                                         | TBA            |
 | 3:30 - 4:30pm   | [Edson de Faria](abstracts.md#edson-de-faria){target="_blank"}               | Segal Theatre* |
 
-*The lectures will be live-streamed in Room 4102 (The Science Center).
+*The lectures were live-streamed in Room 4102 (The Science Center).

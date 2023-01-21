@@ -12,6 +12,8 @@ The long term goal of this project is to develop a metric theory of the augmente
 
 ### Moira Chas
 
+[Lecture Video](https://youtu.be/inpWaqRhfL8){target="_blank"}
+
 **Title:** Tantalizing patterns created by curves on surfaces
 
 **Abstract:** Consider an orientable surface $S$ with negative Euler characteristic, a minimal set of generators of the fundamental group of $S$, and a hyperbolic metric on $S$. Each unbased homotopy class $C$ of closed oriented curves on $S$ determines three numbers: the minimal geometric self-intersection number, the geometric length, and the word length (that is, the minimal number of letters needed to express $C$ as a cyclic reduced word in the generators and their inverses). Also, the set of free homotopy classes of closed directed curves on $S$ (as a set) is the vector space basis of a Lie algebra discovered by Goldman. This Lie algebra is closely related to the intersection structure of curves on $S$. These three numbers, as well as the Goldman Lie bracket of two classes, can be explicitly computed (or approximated) using a computer. We will discuss the algorithms to compute or approximate these numbers, and how these computer experiments led to counterexamples to existing conjectures, to formulate new conjectures and (sometimes) to subsequent theorems. 
@@ -54,6 +56,8 @@ and others.
 
 ### Edson de Faria
 
+[Lecture Video](https://youtu.be/Hpdp7TQ6Vws){target="_blank"}
+
 **Title:** Asymptotic holomorphic dynamics and renormalization
 
 **Abstract:** The purpose of this talk is to present a version of the Fatou-Julia-Sullivan theorem for infinitely renormalizable, asymptotically holomorphic polynomial-like maps, as well as a topological straightening theorem in this setting. As a consequence of these results, we deduce that such maps have no wandering domains, and that their Julia sets are locally connected. The talk is based on recent joint work with Trevor Clark and Sebastian van Strien.
@@ -61,6 +65,8 @@ and others.
 ---
 
 ### Ruth Lawrence-Naimark
+
+[Lecture Video](https://youtu.be/RFaYO3jGpEo){target="_blank"}
 
 **Title:** Infinity structures, BV formalism and discrete models of continuum vector calculus
 
